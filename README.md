@@ -4,7 +4,7 @@ I'm a former construction manager, hobby game dev, and software engineer based i
 
 I built, and maintain:
 - [Morrow](https://onthemorrow.app), a project and task tracker
-- [Loffrey](https://www.loffrey.app), a job application assistant and tool
+- [Loffrey](https://www.loffrey.app), a job application tracker
 - [Scribe](https://scribe.club), a table/SQL-"like" view for JSON files for game development
 - [Birds](https://johns-rocks.itch.io/birds), a little bird feeding simulation
 - an unnamed RPG
