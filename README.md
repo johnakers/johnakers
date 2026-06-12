@@ -11,6 +11,8 @@ I built, and maintain:
 
 and more! You can see the full list on [my site](https://johnakers.net).
 
+_profile picture by [Lijj](https://rawbetty.com/)_
+
 <!--
 **johnakers/johnakers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
