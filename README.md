@@ -3,11 +3,12 @@
 I'm a former construction manager, hobby game dev, and software engineer based in the San Francisco Bay Area.
 
 I built, and maintain:
-📏 [Morrow](https://onthemorrow.app), a project and task tracker
-📖 [Loffrey](https://www.loffrey.app), a job application tracker
-🖋️ [Scribe](https://scribe.club), a table/SQL-"like" view for JSON files for game development
-🐦 [Birds](https://johns-rocks.itch.io/birds), a little bird feeding simulation
-🎮 an unnamed RPG
+
+📏 [Morrow](https://onthemorrow.app), a project and task tracker<br>
+📖 [Loffrey](https://www.loffrey.app), a job application tracker<br>
+🖋️ [Scribe](https://scribe.club), a table/SQL-"like" view for JSON files for game development<br>
+🐦 [Birds](https://johns-rocks.itch.io/birds), a little bird feeding simulation<br>
+🎮 an unnamed RPG<br>
 
 and more! You can see the full list on [my site](https://johnakers.net)
 
