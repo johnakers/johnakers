@@ -10,7 +10,7 @@ I built, and maintain:
 🐦 [Birds](https://johns-rocks.itch.io/birds), a little bird feeding simulation<br>
 🎮 an unnamed RPG<br>
 
-and more! You can see the full list on [my site](https://johnakers.net)
+and more! You can see the full list on [my site](https://johnakers.net).
 
 _profile picture by [Lijj](https://rawbetty.com/)_
 
