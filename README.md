@@ -1,13 +1,13 @@
 # Hi I'm John 
 
-I'm a former construction manager, hobby game dev, and software engineer based in the San Francisco Bay.
+I'm a former construction manager, hobby game dev, and software engineer based in the San Francisco Bay Area.
 
-I built and currently maintain:
+I built, and maintain:
 - [Morrow](https://onthemorrow.app), a project and task tracker
 - [Loffrey](https://www.loffrey.app), a job application assistant and tool
 - [Scribe](https://scribe.club), a table/SQL-"like" view for JSON files for game development
 - [Birds](https://johns-rocks.itch.io/birds), a little bird feeding simulation
-- An unamed RPG
+- an unnamed RPG
 
 and more! You can see the full list on [my site](https://johnakers.net).
 
