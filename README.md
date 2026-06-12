@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi I'm John 
+
+I'm a former construction manager, hobby game dev, and software engineer based in the San Francisco Bay.
+
+I built and currently maintain:
+- [Morrow](https://onthemorrow.app), a project and task tracker
+- [Loffrey](https://www.loffrey.app), a job application assistant and tool
+- [Scribe](https://scribe.club), a table/SQL-"like" view for JSON files for game development
+- An unamed RPG
+
+and more! You can see the full list on [my site](https://johnakers.net).
 
 <!--
 **johnakers/johnakers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
