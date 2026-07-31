@@ -8,7 +8,7 @@ I am building/maintaining:
 📖 [Loffrey](https://www.loffrey.app), a job application tracker<br>
 🖋️ [Scribe](https://scribe.club), a table/SQL-"like" view for JSON files for game development<br>
 🐦 [Birds](https://johns-rocks.itch.io/birds), a little bird feeding simulation<br>
-🎮 a game in Haxeflixel called "Allegory"
+🎮 a few different games coming soon!
 
 and more! You can see the full list on [my site](https://johnakers.net).
 
